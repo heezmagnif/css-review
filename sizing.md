@@ -83,7 +83,7 @@ From `sizing.css`, copy and paste the appropriate snippet of code that will...
 
 ```
 
-- Make el 1000% the height of its font size
+- Make el 1000% the width of its font size
 
 ```
 
